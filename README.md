@@ -3,6 +3,7 @@ Email Validation (Python)
 A simple and beginner-friendly Python program that validates email addresses without using regex.
 This project demonstrates how to use string methods, loops, and conditional logic to build a fully custom email validation system.
 ________________________________________________________________________________________________________________________________________________
+
 🚀 Features
 
 ✔ Validates minimum length (≥ 6 characters)
@@ -12,7 +13,8 @@ ________________________________________________________________________________
 ✔ Rejects spaces, uppercase letters, and invalid characters
 ✔ Beginner-friendly and easy to understand
 ✔ No external libraries required
-------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________________
+
 🧠 How It Works
 The script validates the email step-by-step:
 1.) Length Check
@@ -27,11 +29,24 @@ The script validates the email step-by-step:
 If any rule fails, the script prints specific error messages
 like: Wrong email 1, Wrong email 2, Wrong email 3, etc.
 _______________________________________________________________________________________________________________________________________________
+
+🏁 How to Run
+1.) Clone the repository:
+git clone https://github.com/yogi7557/Email_Validation_Python.git
+
+2.) Navigate to the folder:
+cd Email_Validation_Python
+
+3.) Run the script:
+python email_validation.py
+________________________________________________________________________________________________________________________________________________
+
 🤝 Contributing
 
 Contributions are welcome!
 Feel free to open issues or submit pull requests.
 _______________________________________________________________________________________________________________________________________________
+
 ⭐ Show Your Support
 
 If you found this useful, please star ⭐ the repository to support the project!
