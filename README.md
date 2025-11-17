@@ -32,13 +32,13 @@ ________________________________________________________________________________
 
 🏁 How to Run
 1.) Clone the repository:
-git clone https://github.com/yogi7557/Email_Validation_Python.git
+    git clone https:  https://github.com/Yogi7557/Email_Validation_-Python-
 
 2.) Navigate to the folder:
-cd Email_Validation_Python
+    cd Email_Validation_Python
 
 3.) Run the script:
-python email_validation.py
+    python email_validation.py
 ________________________________________________________________________________________________________________________________________________
 
 🤝 Contributing
